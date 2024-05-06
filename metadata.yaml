@@ -1,0 +1,42 @@
+_repo: 20-hrs-40-min-b-our-flight-in-the-Friendship-the-American-girl-first-across-the-Atlantic-by-a__73448
+_version: 0.0.1
+alternative_title:
+- '20 hours, 40 minutes :  our flight in the Friendship : the American girl, first
+  across the Atlantic by air, tells her story'
+- 'Twenty hours, forty minutes :  our flight in the Friendship : the American girl,
+  first across the Atlantic by air, tells her story'
+creator:
+  author:
+    agent_name: Earhart, Amelia
+    aliases:
+    - Putnam, Amelia Earhart
+    - Putnam, Mrs. George Palmer
+    - Putnam, George Palmer, Mrs.
+    birthdate: 1897
+    deathdate: 1937
+    gutenberg_agent_id: '57073'
+    url: http://www.gutenberg.org/2009/agents/57073
+    wikipedia: https://en.wikipedia.org/wiki/Amelia_Earhart
+description: ''
+gutenberg_issued: '2024-04-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73448'
+language: en
+pgterms:marc904: https://archive.org/details/20hrs40minourfli0000amel/mode/2up
+pgterms:marc905: 20240309152136earhart
+pgterms:marc906: '1928'
+pgterms:marc907: US
+publication_note: '  $aNew York :$bG. P. Putman''s Sons, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Transatlantic flights'
+- !lcsh 'Earhart, Amelia, 1897-1937'
+- !lcsh 'Women air pilots -- United States -- Biography'
+- !lcc 'TL'
+- GITenberg
+title: '20 hrs., 40 min. : $b our flight in the Friendship : the American girl, first
+  across the Atlantic by air, tells her story'
+url: http://www.gutenberg.org/ebooks/73448
