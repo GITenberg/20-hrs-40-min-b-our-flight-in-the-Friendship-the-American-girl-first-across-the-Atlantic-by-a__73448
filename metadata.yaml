@@ -5,6 +5,9 @@ alternative_title:
   across the Atlantic by air, tells her story'
 - 'Twenty hours, forty minutes :  our flight in the Friendship : the American girl,
   first across the Atlantic by air, tells her story'
+covers:
+- cover_type: archival
+  image_path: 73448-h/images/cover.jpg
 creator:
   author:
     agent_name: Earhart, Amelia
@@ -18,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/57073
     wikipedia: https://en.wikipedia.org/wiki/Amelia_Earhart
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73448#20-hrs-40-min-b-our-flight-in-the-Friendship-the-American-girl-first-across-the-Atlantic-by-a_
 gutenberg_issued: '2024-04-23'
 gutenberg_type: Text
 identifiers:
